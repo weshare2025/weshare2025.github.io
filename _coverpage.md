@@ -1,11 +1,11 @@
 ![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
 
-## 字节飞扬
+## WeShare
 
-- 互联网是有记忆的，我想留下一些成长的脚印。
+- 打破竞赛信息差
 
 
-[GitHub](https://github.com/bytesfly/blog)
+[GitHub]([https://github.com/bytesfly/blog](https://github.com/weshare2025/weshare2025.github-io))
 [开始阅读](README.md)
 
 
