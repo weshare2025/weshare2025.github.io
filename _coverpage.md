@@ -21,28 +21,6 @@
 <!-- 背景色 -->
 ![color](#f5f5f5)
 
-<style>
-  h1, h3 {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    text-align: center;
-    color: #333;
-  }
-  
-  p {
-    text-align: center;
-    font-size: 1.2em;
-    color: #555;
-  }
-
-  div {
-    text-align: center;
-  }
-
-  img {
-    margin: 0 10px;
-  }
-</style>
-
 <!-- 
 # WeShare
 **打破竞赛信息差**
