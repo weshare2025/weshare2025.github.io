@@ -1,7 +1,4 @@
-
-<!-- Coverpage -->
-
-![Logo](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
+![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
 
 # WeShare
 
@@ -18,42 +15,7 @@
   </a>
 </div>
 
-<!-- 背景色 -->
-![color](#f5f5f5)
-
-<!-- 
-# WeShare
-**打破竞赛信息差**
-
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png" alt="icon" width="150">
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/weshare2025/weshare2025.github-io" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-right: 15px;">
-    <i class="fab fa-github"></i> GitHub
-  </a>
-  <a href="README.md" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">
-    <i class="fas fa-book-open"></i> 开始阅读
-  </a>
-</div>
-
-<br> -->
-<!-- ![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
-
-## WeShare
-
-- 打破竞赛信息差
-
-
-[GitHub]([https://github.com/bytesfly/blog](https://github.com/weshare2025/weshare2025.github-io))
-[开始阅读](README.md)
-
 
 
 <!-- 背景色 -->
-![color](#fff) -->
+![color](#fff) 
