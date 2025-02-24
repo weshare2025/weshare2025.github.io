@@ -1,4 +1,8 @@
 
+## 全国大学生物联网设计竞赛
+
+- [竞赛·初识篇](全国大学生物联网设计竞赛/初识篇.md)
+
 ## Java
 
 - [MyBatis-Plus中如何使用ResultMap](Java/resultmap-in-mybatis-plus.md)
