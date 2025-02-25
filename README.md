@@ -36,7 +36,7 @@
 - [嵌入式[国家一等奖]](LeetCode/0070-climbing-stairs.md)
 
 **软件赛道:**
-- [Python A组[国家三等奖](LeetCode/0055-jump-game.md)
+- [Python A组[国家三等奖]](LeetCode/0055-jump-game.md)
 
 
 <!-- 
