@@ -3,40 +3,40 @@
 
 **华为命题(全国总冠军):**
 - [初识篇](全国大学生物联网设计竞赛/初识篇.md)
-- [项目篇](LeetCode/0746-min-cost-climbing-stairs.md)
-- [答辩篇](LeetCode/0121-best-time-to-buy-and-sell-stock.md)
+- [项目篇](全国大学生计算机设计大赛/物联网赛道/coming.md)
+- [答辩篇](全国大学生计算机设计大赛/物联网赛道/coming.md)
 
 ## 全国大学生计算机设计大赛
 
 **物联网赛道[国家三等奖]:**
-- [初识篇](全国大学生物联网设计竞赛/初识篇.md)
-- [项目篇](LeetCode/0746-min-cost-climbing-stairs.md)
-- [答辩篇](LeetCode/0121-best-time-to-buy-and-sell-stock.md)
+- [初识篇](全国大学生计算机设计大赛/物联网赛道/coming.md)
+- [项目篇](全国大学生计算机设计大赛/物联网赛道/coming.md)
+- [答辩篇](全国大学生计算机设计大赛/物联网赛道/coming.md)
 
 **人工智能赛道[国家二等奖]:**
-- [初识篇](全国大学生物联网设计竞赛/初识篇.md)
-- [项目篇](LeetCode/0746-min-cost-climbing-stairs.md)
-- [答辩篇](LeetCode/0121-best-time-to-buy-and-sell-stock.md)
+- [初识篇](全国大学生计算机设计大赛/人工智能赛道/coming.md)
+- [项目篇](全国大学生计算机设计大赛/人工智能赛道/coming.md)
+- [答辩篇](全国大学生计算机设计大赛/人工智能赛道/coming.md)
 
 ## 中国机器人及人工智能大赛
 
 **家电赛道[国家三等奖]:**
-- [初识篇](全国大学生物联网设计竞赛/初识篇.md)
-- [项目篇](LeetCode/0746-min-cost-climbing-stairs.md)
-- [答辩篇](LeetCode/0121-best-time-to-buy-and-sell-stock.md)
+- [初识篇](中国机器人及人工智能大赛/家电赛道/coming.md)
+- [项目篇](中国机器人及人工智能大赛/家电赛道/coming.md)
+- [答辩篇](中国机器人及人工智能大赛/家电赛道/coming.md)
 
 **新质生产力赛道[国家一等奖]:**
-- [初识篇](全国大学生物联网设计竞赛/初识篇.md)
-- [项目篇](LeetCode/0746-min-cost-climbing-stairs.md)
-- [答辩篇](LeetCode/0121-best-time-to-buy-and-sell-stock.md)
+- [初识篇](中国机器人及人工智能大赛/新质生产力赛道/coming.md)
+- [项目篇](中国机器人及人工智能大赛/新质生产力赛道/coming.md)
+- [答辩篇](中国机器人及人工智能大赛/新质生产力赛道/coming.md)
 
 ## 蓝桥杯
 
 **硬件赛道:**
-- [嵌入式[国家一等奖]](LeetCode/0070-climbing-stairs.md)
+- [嵌入式[国家一等奖]](蓝桥杯/硬件赛道/coming.md)
 
 **软件赛道:**
-- [Python A组[国家三等奖]](LeetCode/0055-jump-game.md)
+- [Python A组[国家三等奖]](蓝桥杯/软件赛道/coming.md)
 
 
 <!-- 
