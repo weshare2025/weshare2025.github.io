@@ -62,7 +62,7 @@ WeShare是一个竞赛分享平台，在这里，你可以成为读者，可以�
 
 这个平台前期的经验分享完全开源，如果你觉得作者们写得还行，或者这本竞赛贴真真正正地帮助到了你，不妨请weshare的贡献者们喝杯奶茶。
 
-  <div ><img src="https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210923090812528-762106506.png" width="200" height="200" /></div>
+  <div ><img src="https://weshare.xin/about/shoukuan.jpg" width="200" height="200" /></div>
 
   
 - **Email：** weshare2502@gmail.com
