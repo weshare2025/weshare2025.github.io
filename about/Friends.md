@@ -2,11 +2,22 @@
 > 你有一个苹果，我有一个苹果，我们彼此交换，每人还是一个苹果；你有一种思想，我有一种思想，我们彼此交换，每人可拥有两种思想。
 
 
-##  🥂 友情链接
+##  🥂 感谢名单
 
-PS：排名不分先后，友情第一，链接第二 ~~
+PS：贡献排名不分先后 ~~
+
+深圳大学 Kivy
+海南大学 豪
+昆明理工大学 涛
+海南大学 Apen
+深圳大学 洽
 
 
+## 📃 贡献者申请
+
+与我 [ 联系 ](https://weshare.xin/#/about/?id=💌-联系)  或者 [github](https://github.com/weshare2025/weshare2025.github.io/edit/master/about/Friends.md) 提`issues`or`pull requests`都行
+
+<!--
 <div class="friends">
      <a class="a-friend" target="_blank" style="background-color:#FF9966;color:black" href="https://www.cnblogs.com/bytesfly/">
         <img class="blog-avatar" src="https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png">
@@ -23,15 +34,4 @@ PS：排名不分先后，友情第一，链接第二 ~~
         </div>
     </a>
 </div>
-
-
-
-## 📃 友链申请
-
-与我 [ 联系 ](https://bytesfly.github.io/blog/#/about/?id=💌-联系) 或者 去 [博客园](https://www.cnblogs.com/bytesfly/p/awesome-blogs.html) 评论 或者 [github](https://github.com/bytesfly/blog/blob/master/about/Friends.md) 提`issues`or`pull requests`都行，格式大致如下：
-
-> * 昵称：字节飞扬
-> * 头像：https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png
-> * 主页：[https://www.cnblogs.com/bytesfly/](https://www.cnblogs.com/bytesfly/)
-> * 说明：互联网是有记忆的，我想留下一些成长的脚印。
-
+-->
