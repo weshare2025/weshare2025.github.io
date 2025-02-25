@@ -60,7 +60,7 @@ WeShare是一个竞赛分享平台，在这里，你可以成为读者，可以�
 
 ## 💌 联系 & 请贡献者喝奶茶
 
-这个平台前期的经验分享完全开源，如果你觉得作者们写得还行，或者竞赛贴真真正正地帮助到了你，不妨请WeShare的贡献者们喝杯奶茶。
+这个平台前期的经验分享完全开源，如果你觉得写得还行，或者竞赛贴真真正正地帮助到了你，不妨请WeShare的贡献者们喝杯奶茶。
 
   <div ><img src="https://WeShare.xin/about/shoukuan.jpg" width="200" height="300" /></div>
 
@@ -74,7 +74,7 @@ WeShare是一个竞赛分享平台，在这里，你可以成为读者，可以�
 
 ## ⚒️ 平台构建
 
-本站源码以及全部内容： [https://github.com/bytesfly/blog](https://github.com/bytesfly/blog)
+本站源码以及全部内容： [https://github.com/weshare2025/weshare2025.github.io]((https://github.com/weshare2025/weshare2025.github.io)
 <!--
 <img src="https://img.shields.io/github/stars/bytesfly/blog" data-origin="https://img.shields.io/github/stars/bytesfly/blog" alt=""> 
 <img src="https://img.shields.io/github/forks/bytesfly/blog" data-origin="https://img.shields.io/github/forks/bytesfly/blog" alt="">
