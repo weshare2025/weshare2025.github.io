@@ -1,4 +1,4 @@
-![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
+![icon](https://weshare.xin/cover.png)
 
 ## 字节飞扬
 
