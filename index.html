@@ -366,21 +366,12 @@
       onlyCover: true,
       topMargin: 60,//调整top
       //executeScript: true,//执行页面上的脚本，仅解析第一个脚本标签
-      search: {
-        paths: 'auto',
-        placeholder: '🔍 搜索',
-        noData: '😒 找不到结果',
-        // Headline depth, 1 - 6
-        depth: 6,
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-      },//添加搜索框
-
       footer: {
         copy: '打破竞赛信息差 —— <a href="https://github.com/weshare2025" target="_blank">WeShare</a><br/><br/>',
         pre: '<hr/>',
         style: 'text-align: left;',
       },//添加页脚
-
+      
       markdown: {
         renderer: {
           code: function(code, lang, base=null) {
