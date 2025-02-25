@@ -74,7 +74,7 @@ WeShare是一个竞赛分享平台，在这里，你可以成为读者，可以�
 
 ## ⚒️ 平台构建
 
-本站源码以及全部内容： [https://github.com/weshare2025/weshare2025.github.io]((https://github.com/weshare2025/weshare2025.github.io)
+本站源码以及全部内容： [https://github.com/weshare2025/weshare2025.github.io](https://github.com/weshare2025/weshare2025.github.io)
 <!--
 <img src="https://img.shields.io/github/stars/bytesfly/blog" data-origin="https://img.shields.io/github/stars/bytesfly/blog" alt=""> 
 <img src="https://img.shields.io/github/forks/bytesfly/blog" data-origin="https://img.shields.io/github/forks/bytesfly/blog" alt="">
